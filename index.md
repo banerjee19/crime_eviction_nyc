@@ -14,3 +14,5 @@ Both of these datasets contains lat-long values for the point locations. So, the
 The total crimes and total evictions are point datasets. To create choropleth maps, first aggregated them to census tracts and then normalized them. The eviction counts 
 were normalized by the total renter households in each census tract to estimate the 'eviction rate' for each. The total crimes were normalized by the total population 
 and then multiplied by 100,000 to generate the crime rate per 100,000 population per census tract.
+
+
