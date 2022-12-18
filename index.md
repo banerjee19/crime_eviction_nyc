@@ -16,3 +16,4 @@ were normalized by the total renter households in each census tract to estimate 
 and then multiplied by 100,000 to generate the crime rate per 100,000 population per census tract.
 
 
+![Static Maps](https://github.com/[banerjee19]/[crime_eviction_nyc]/blob/[main]/Static_Map_1.jpg?raw=true)
