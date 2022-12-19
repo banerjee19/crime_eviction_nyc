@@ -20,4 +20,4 @@ and then multiplied by 100,000 to generate the crime rate per 100,000 population
 ![Static_Map](https://user-images.githubusercontent.com/102771172/208278270-3b7ffd60-3fbc-4bf4-8134-8438e139f41e.png)
 
 ### Interactive Map  
-<iframe src="Evictions_Crime_NYC.html" height="855" width="95%"></iframe>
+<iframe src="Evictions_Crime_NYC.html" height="1025" width="100%"></iframe>
